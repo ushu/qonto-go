@@ -1,5 +1,7 @@
 # Qonto API Client for go
 
+[![Build Status](https://travis-ci.org/ushu/qonto-go.svg?branch=master)](https://travis-ci.org/ushu/qonto-go)
+
 This library is intended to connect to the [Qonto API v2.0] to access the details of the user's transactions.
 
 *Note*: there is another [go package](https://github.com/toorop/go-qonto) that you might want to consider for consuming this API. I designed this variant to be able to easily use `context.Context` for parallel API calls and use a custom `http.Client` for AppEngine, so it will depend on your use case whether or not it is relevant.
