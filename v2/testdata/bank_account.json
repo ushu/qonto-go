@@ -1,0 +1,10 @@
+{
+  "slug": "test-bank-account",
+  "iban": "FR7600000000000000000000000",
+  "bic": "TRZOFR21XXX",
+  "currency": "EUR",
+  "balance": 4000.36,
+  "balance_cents": 400036,
+  "authorized_balance": 3000.36,
+  "authorized_balance_cents": 300036
+}

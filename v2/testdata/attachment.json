@@ -1,0 +1,8 @@
+{
+  "id": "1ec373a5-e30d-4a70-948d-c8d49e4a4d31",
+  "created_at": "2019-01-07T16:36:25.862Z",
+  "file_name": "doc.pdf",
+  "file_size": "49599",
+  "file_content_type": "application/pdf",
+  "url": "https://qonto-dev.s3.eu-central-1.amazonaws.com/production/uploads/attachment/1ec373a5-e30d-4a70-948d-c8d49e4a4d31/5ff8b9fa-4161-4904-ae93-ebc9e34d1614.pdf?response-content-disposition=attachment%3Bfilename%2A%3DUTF-8%27%27doc.pdf&response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWLF7G5ORP46XMEA%2F20190108%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20190108T145400Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=7cb89f5363fb5eef8299d03a6602b08843c41aebbe24bffca96b6d11741ccde3"
+}

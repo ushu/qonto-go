@@ -1,0 +1,16 @@
+{
+  "transaction_id": "test-account-1-transaction-4",
+  "amount": 120.42,
+  "amount_cents": 12042,
+  "local_amount": 120.42,
+  "local_amount_cents": 12042,
+  "side": "debit",
+  "operation_type": "direct_debit",
+  "currency": "EUR",
+  "local_currency": "EUR",
+  "label": "SOME DEBIT",
+  "settled_at": "2018-10-01T04:20:03.000Z",
+  "emitted_at": "2018-10-01T00:00:00.000Z",
+  "status": "completed",
+  "note": "NOTE"
+}
